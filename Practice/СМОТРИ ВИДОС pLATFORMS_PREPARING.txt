@@ -1,0 +1,47 @@
+1. Открыть в группе 31_QA_Channel видео Platforms_preparing
+
+2. Сразу иметь ввиду приоритеты:
+
+************
+2.1. ТЕОРИЯ подтянуть и прямо знать:
+Теория - часть 1.
+Сделать конспект, желательно понять и запомнить: Что такое
+
+ 1. Smoke tests
+ 2. Critical path testing
+ 3. Regression testing
+ 4. Test types
+ 5. Test levels
+ 6. Test Environments
+ 7. Bug report
+ 8. Test case
+ 9. Check list
+ 10. Test Plan
+
+Дедлайн - следующая пятница (02.09.2022)
+************
+
+************
+2.2. ДЗшка по приложению на андроиде Liveness
+************
+
+************
+2.3. Собрать ссылки с сайтов
+Bloomderg.com Links
+FT.com Links
+Investing.com Links
+Tradingview.com Financial Links
+
+Потом будем создавать аккаунты для их прогрева под VPN
+
+P.S. Смотри в папке 31_group подпапку Zoom screens - там скриншоты с примером как надо насобирать ссылки.
+************
+
+
+
+
+
+
+
+
+
