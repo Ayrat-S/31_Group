@@ -27,9 +27,9 @@
 
 ************
 2.3. Собрать ссылки с сайтов
-Bloomderg.com Links
-FT.com Links
-Investing.com Links
+OK - Bloomderg.com Links
+OK - FT.com Links
+OK - Investing.com Links
 Tradingview.com Financial Links
 
 Потом будем создавать аккаунты для их прогрева под VPN
